@@ -13,3 +13,9 @@ body {
 #titulo {
   text-align: center;
 }
+
+img {
+  margin: auto;
+  padding: 0%;
+  border: 2px solid black;
+}
