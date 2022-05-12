@@ -22,3 +22,23 @@ img {
   padding: 0%;
   border: 2px solid black;
 }
+
+p {
+ width: 100px;
+ height: 100px;
+ display: inline-block;
+ border: 2px solid black;
+}
+
+.lado-esquerdo {
+  width: 500px;
+  height: 250px;
+  display: inline-block;
+}
+
+.lado-direito {
+  width: 500px;
+  height: 250px;
+  display: inline-block;
+  margin-left: 10px;
+}
