@@ -21,21 +21,22 @@ img {
 }
 
 .principal {
-  background-color: #000000;
+  background-color: black;
   height: 270px;
   width: 100%;
 }
 
-div.wrapper{
+div.wrapper {
   position: relative;
   width: 80%;
   margin: auto;
 }
+
 .lado-esquerdo {
   height: 230px;
   width: 45%;
   float: left;
-  background-color: #cccccc;
+  background-color: #ccc;
   margin: 20px;
 }
 
@@ -43,14 +44,14 @@ div.wrapper{
   height: 230px;
   width: 45%;
   float: left;
-  background-color: #cccccc;
+  background-color: #ccc;
   margin: 20px;
 }
 
-footer{
+footer {
   text-align: center;
   background-color: red;
-  color: #FFF;
+  color: white;
   position: absolute;
   bottom: 0;
   line-height: 50px;
