@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+}
+
 body {
   background-color: rgb(253, 251, 251);
 }
@@ -5,54 +11,113 @@ body {
 #cabecalho {
   top: 0;
   position: fixed;
+  width: 100%;
+  background:green;
+  display: inline-block;
 }
 
 #titulo {
-  font-size: 40px;
-  color: white;
-  font-family: monospace;
-  line-height: 150px;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 50px;
 }
 
-img {
-  border: 2px solid black;
-  margin: auto;
-  padding: 1px;
+nav {
+  background-color: black;
+}
+
+nav ul {
+  margin-left: 20px;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.foto {
+ padding-top: 94px;
+ background-color: rgb(80, 82, 82);
+}
+
+.foto img {
+  border: 5px solid black;
+  border-radius: 10px;
+  width: 200px;
+}
+
+nav a, #titulo {
+  color: white;
+}
+
+nav a, #titulo, #rodape a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  font-weight: 900;
+  background-color: rgb(48, 47, 47);
+}
+
+.listas {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0 0 70px;
+  width: 25%;
+}
+
+.listas h2 {
+  margin-bottom: 10px;
+}
+
+.listas li {
+  list-style-position: inside;
 }
 
 .principal {
-  background-color: black;
-  height: 270px;
-  width: 100%;
+  margin: 40px 0;
+  background: blue;
+  height: 250px;
 }
 
-div .wrapper {
+.lado-esquerdo, .lado-direito {
+  width: 350px;
+  float: left;
+  background-color: rgb(253, 251, 251);
+  margin: 20px;
   position: relative;
-  width: 80%;
-  margin: auto;
+  border: 2px groove #E1CCB7;
+  padding: 5px;
+  color: black;
 }
 
-.lado-esquerdo {
-  height: 230px;
-  width: 45%;
-  float: left;
-  background-color: rgb(253, 251, 251);
-  margin: 20px;
+#tabela {
+  display: flex;
+  width:50%;
+  gap: 90px;
+  margin-left: 70px;
+  padding-bottom: 100px;
 }
 
-.lado-direito {
-  height: 230px;
-  width: 45%;
-  float: left;
-  background-color: rgb(253, 251, 251);
-  margin: 20px;
-}
-
-footer {
-  text-align: center;
-  background-color: red;
-  color: white;
-  position: absolute;
+#rodape {
+  position: fixed;
   bottom: 0;
-  line-height: 50px;
+  width: 100%;
+  height: 12px;
+  background: #0c0b0b;
+  padding: 10px 0 10px 30px;
+  color: white;
+}
+
+#rodape a {
+  color: black;
+  font-weight: 600;
+}
+
+#rodape img {
+  width: 30px;
+  right:35px;
+  position: absolute;
+  top:0;
 }

@@ -4,80 +4,119 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/style.css">
-  <title>Lessons Learned.</title>
+  <link rel="stylesheet" href="/sd-023-b-project-lessons-learned/style.css">
+  <title>Lições aprendidas - Trybe!</title>
 </head>
 <body>
+
+  <!-- Cabeçalho com navegador (menu) -->
+
   <header id="cabecalho">
-    <nav></nav>
     <h1 id="titulo">Lições aprendidas - Trybe!</h1>
+    <nav>
+      <ul>
+        <li><a href=".">Home</a></li>
+        <li><a href=".">Login</a></li>
+      </ul>
+    </nav>
   </header>
-  <div>
-    <img id="minha_foto" src="/principal.jpg" alt="foto pessoal de ludson" width="200px;"><br>
-  </div>
 
-  <a href="https://www.linkedin.com/in/ludson96/" target="_blank">Linkedin</a>
 
-  <h2>Lições</h2>
+    <!-- Corpo do site -->
 
-  <ol id="licoes_aprendidas">
-    <li>Unix</li>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Empatia</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Slack</li>
-    <li>Zoom</li>
-    <li>Inspect</li>
-    <li>Semantic HTML</li>
-  </ol>
+  <main>
+    <div class="foto">
+      <img id="minha_foto" src="/sd-023-b-project-lessons-learned/principal.jpg" alt="foto pessoal de ludson" >
+    </div>
 
-  <ul id="licoes_a_aprender">
-    <li>JavaScript</li>
-    <li>DOM</li>
-    <li>Forms</li>
-    <li>CSS Responsive</li>
-    <li>ES6</li>
-    <li>HOF</li>
-    <li>Unit Tests</li>
-    <li>React</li>
-    <li>Node</li>
-    <li>SQL</li>
-  </ul>
+      <!-- Listas -->
 
-  <section class="principal">
-    <div class="wrapper">
-      <section class="lado-esquerdo">
-        <article>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ad, quidem odit iure, debitis dolores magni ducimus, minima molestiae earum ipsa incidunt possimus. Ea, eum impedit itaque doloribus nam modi.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ad, quidem odit iure, debitis dolores magni ducimus, minima molestiae earum ipsa incidunt possimus. Ea, eum impedit itaque doloribus nam modi.
-          </p>
-        </article>
-      </section>
+    <section class="listas">
 
-      <aside class="lado-direito">
+      <div>
+        <h2>Lições aprendidas</h2>
+        <ol id="licoes_aprendidas">
+          <li>Unix</li>
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>Empatia</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Slack</li>
+          <li>Zoom</li>
+          <li>Inspect</li>
+          <li>Semantic HTML</li>
+        </ol>
+      </div>
+
+      <div>
+        <h2>Lições a aprender</h2>
+        <ul id="licoes_a_aprender">
+          <li>JavaScript</li>
+          <li>DOM</li>
+          <li>Forms</li>
+          <li>CSS Responsive</li>
+          <li>ES6</li>
+          <li>HOF</li>
+          <li>Unit Tests</li>
+          <li>React</li>
+          <li>Node</li>
+          <li>SQL</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Article -->
+
+    <section class="principal">
+      <article class="lado-esquerdo">
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ad, quidem odit iure, debitis dolores magni ducimus, minima molestiae earum ipsa incidunt possimus. Ea, eum impedit itaque doloribus nam modi.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ad, quidem odit iure, debitis dolores magni ducimus, minima molestiae earum ipsa incidunt possimus. Ea, eum impedit itaque doloribus nam modi.
         </p>
-      </aside>
-    </div>
-  </section>
+      </article>
+    
+      <!-- Aside -->
 
-    <table>
-      <th>
-        <td>Nascimento</td>
-        <td>Carreira anterior</td>
-      </th>
-      <tr>
-        <td>26/09/1996</td>
-        <td>Técnico de informatica</td>
-      </tr>
-    </table>
-  
+      <aside class="lado-direito">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ad, quidem odit iure, debitis dolores magni ducimus, minima molestiae earum ipsa incidunt possimus. Ea, eum impedit itaque doloribus nam modi.
+          </p>
+      </aside>
+    </section>
+
+      <!-- Tabela -->
+
+    <section id="tabela">
+      <h3>Tabela: jogos</h3>
+      <table>
+        <tr>
+          <td>Watch Dogs: Legion</td>
+          <td>The Legend of Zelda</td>
+         
+        </tr>
+        <tr>
+          <td>Eletronica</td>
+          <td>The Witcher 3</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Elder Ring</td>
+          <td>Minecraft</td>
+        </tr>
+        <tr>
+          <td>Super Mario</td>
+          <td>Grand Theft Auto V</td>
+        </tr>
+      </table>
+    </section>
+  </main>
+
+      <!-- Rodapé -->
+
   <footer id="rodape">
-    Todos os direitos reservados, Ludson.
+    Todos os direitos reservados, Ludson <a href="https://www.linkedin.com/in/ludson96/" target="_blank"> <img src="/sd-023-b-project-lessons-learned/logo.png" alt="logo linkedin"></a>
   </footer>
 
 </body>
