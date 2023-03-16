@@ -9,7 +9,7 @@
 ## Informações de aprendizados
 
 - Este é um projeto desenvolvido para me ajudar a aprender `HTML`, `CSS`, `Git` e `GitHub`;
-- Primeiro projeto na @betrybe;
+- Primeiro projeto na `Trybe`;
 - Utilizei a extensão Live Server para visualizar as alterações em tempo real.
 
 ## Linguagens e ferramentas usadas
@@ -19,7 +19,7 @@
 
 ## O que foi desenvolvido
 
-Para este projeto, foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendeu aqui na Trybe ao longo dos últimos três blocos. Este projeto contem elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
+Para este projeto, foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendeu aqui na `Trybe` ao longo dos últimos três blocos. Este projeto contem elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
 
 ## Instruções para instalar e rodar
 
@@ -39,7 +39,7 @@ Para este projeto, foi desenvolvido um site que contenha uma série de informaç
 
 <br/>
 
-> `Primeiro` projeto realizado na @betrybe.
+> `Primeiro` projeto realizado na **Trybe**.
 
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
