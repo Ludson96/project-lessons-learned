@@ -1,6 +1,6 @@
-# :construction: Estilização em construção ! :construction:
-
 # Repositório do projeto Lessons Learned
+
+# :construction: Estilização em construção ! :construction:
 
 ## Módulo: Fundamentos
 
