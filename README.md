@@ -8,7 +8,7 @@
 
 - Este é um projeto desenvolvido para me ajudar a aprender `HTML`, `CSS`, `Git` e `GitHub`;
 - Primeiro projeto na `Trybe`;
-- Utilizei a extensão Live Server para visualizar as alterações em tempo real.
+- Utilizei a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para visualizar as alterações em tempo real.
 
 ## Linguagens e ferramentas usadas
 
