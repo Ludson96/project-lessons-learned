@@ -37,8 +37,6 @@ Para este projeto, foi desenvolvido um site que contenha uma série de informaç
 
 1. Execute a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VSCode ou [Live Server Web](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj) no seu navegador ou abra o index.html no browser como preferir.
 
-<!-- <br/> -->
-
 > `Primeiro` projeto realizado na **Trybe**.
 
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
