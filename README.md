@@ -12,6 +12,7 @@
 
 ## Linguagens e ferramentas usadas
 
+ [![Git][Git-logo]][Git-url]
  [![HTML5][HTML5-logo]][HTML5-url]
  [![CSS3][CSS3-logo]][CSS3-url]
 
@@ -37,6 +38,8 @@ Para este projeto, foi desenvolvido um site que contenha uma série de informaç
 
 > `Primeiro` projeto realizado na **Trybe**.
 
+[Git-logo]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [CSS3-logo]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
