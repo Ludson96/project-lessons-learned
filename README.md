@@ -9,7 +9,7 @@
 ## Informações de aprendizados
 
 - Este é um projeto desenvolvido para me ajudar a aprender `HTML`, `CSS`, `Git` e `GitHub`;
-- Primeiro projeto na @betrybe;
+- Primeiro projeto na @trybe;
 - Utilizei a extensão Live Server para visualizar as alterações em tempo real.
 
 ## Linguagens e ferramentas usadas
