@@ -1,6 +1,6 @@
 # Repositório do projeto Lessons Learned
 
-## Módulo: Fundamentos
+## Módulo: FUNDAMENTOS
 
  Repositório possuí projeto desenvolvido no período que estive na **Trybe**, abordando sobre conceitos de posicionamento, estilização e semântica apropriada, usando `HTML`, `CSS`, `Git` e `GitHub`.
 
