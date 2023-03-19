@@ -1,4 +1,4 @@
-# Repositório do projeto Lessons Learned
+# Repositório do projeto Lessons Learned 📚
 
 ## Módulo: FUNDAMENTOS
 
