@@ -18,7 +18,7 @@
 
 ## O que foi desenvolvido
 
-Para este projeto, foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendeu aqui na `Trybe` ao longo dos últimos três blocos. Este projeto contem elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
+Para este projeto, foi desenvolvido um site que contenha uma série de informações sobre o que eu aprendi na `Trybe` ao longo dos últimos três blocos. Este projeto contem elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
 
 ## Instruções para instalar e rodar
 
